@@ -1,7 +1,5 @@
 import { test } from "./fixtures.js";
 import { expect } from "@playwright/test";
-import { LoginPage } from "../pages/LoginPage.js";
-import { InventoryPage } from "../pages/InventoryPage.js";
 import loginData from "../testData/loginData.json";
 
 test("should login successfully with valid credentials", async ({

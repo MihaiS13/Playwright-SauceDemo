@@ -1,0 +1,12 @@
+{
+  "validUser": {
+    "firstName": "Popescu",
+    "lastName": "Popovici",
+    "postalCode": "402050"
+  },
+    "invalidUser": {
+    "firstName": "@@@###",
+    "lastName": "!!!???",
+    "postalCode": "%%^^&&"
+  }
+}
